@@ -1,4 +1,4 @@
-# Why Codeigniter does not support static method?
+# Why CodeIgniter does not support static method?
 
 Why do you need it?
 
